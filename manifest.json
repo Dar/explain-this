@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Explain This",
+  "version": "0.1.0",
+  "description": "A minimal Chrome extension starter for the Explain This CS50 final project.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Explain This"
+  }
+}
